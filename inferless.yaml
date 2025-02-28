@@ -1,6 +1,6 @@
 version: 1.0.0
 
-name: tinyllama-1.1b-chat-v1.0
+name: tinyllama-1-1b-chat-v1.0
 import_source: GIT
 
 # you can choose the options between ONNX, TENSORFLOW, PYTORCH
