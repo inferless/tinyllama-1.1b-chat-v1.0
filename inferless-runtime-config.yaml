@@ -1,5 +1,7 @@
 build:
   cuda_version: "12.1.1"
   python_packages:
-    - "torch==2.1.2"
-    - "vllm==0.3.2"
+    - torch==2.1.2
+    - vllm==0.3.2
+    - hf-transfer==0.1.9
+    - huggingface-hub==0.27.1
